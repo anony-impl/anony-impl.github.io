@@ -1,0 +1,35 @@
+title: 匿名实现
+email: anony.impl@example.com
+description: >-
+  匿名实现的个人博客主页 - 探索技术、艺术与生活的交汇点
+
+baseurl: ""
+url: "https://anony-impl.github.io"
+
+twitter_username: anony_impl
+github_username: anony-impl
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
