@@ -28,7 +28,8 @@
 │   ├── 2.html           # 天文知识科普
 │   ├── 3.html           # 地理奇观
 │   ├── 4.html           # 人工智能简史
-│   └── 5.html           # 咖啡文化
+│   ├── 5.html           # 咖啡文化
+│   └── 6.html           # 楼轶维介绍
 ├── index.html           # 主页
 └── README.md            # 项目说明
 ```
@@ -44,6 +45,7 @@
 | 03 | 地理奇观：地球上的壮丽风景 | [/pages/3](https://anony-impl.github.io/pages/3) |
 | 04 | 人工智能简史：从图灵测试到ChatGPT | [/pages/4](https://anony-impl.github.io/pages/4) |
 | 05 | 咖啡文化：从埃塞俄比亚到星巴克 | [/pages/5](https://anony-impl.github.io/pages/5) |
+| 06 | 楼轶维：北京大学计算机视觉研究者 | [/pages/6](https://anony-impl.github.io/pages/6) |
 
 ### 添加新页面
 
